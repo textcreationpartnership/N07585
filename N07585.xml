@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009685_0000_0F77877A87EB2150"/>
-            <pb facs="tcp:009685_0001_0F77877ADA957F08"/>
+            <pb facs="unknown:009685_0000_0F77877A87EB2150"/>
+            <pb facs="unknown:009685_0001_0F77877ADA957F08"/>
             <p>
                <hi>THE</hi> PAXTONIADE. A POEM.</p>
             <p>BY <hi>CHRISTOPHER GYMNAST,</hi> 
@@ -127,7 +127,7 @@
             <p>PRINTED in the <hi>Year,</hi> 1764.</p>
          </div>
          <div type="preface">
-            <pb n="3" facs="tcp:009685_0002_0F77877BC8842D00"/>
+            <pb n="3" facs="unknown:009685_0002_0F77877BC8842D00"/>
             <head>THE PREFACE.</head>
             <opener>
                <salute>Moſt courteous Reader;</salute>
@@ -141,7 +141,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="4" facs="tcp:009685_0003_0F77877C5A039F48"/>
+            <pb n="4" facs="unknown:009685_0003_0F77877C5A039F48"/>
             <lg>
                <l>WHEN Peace with the Indans was almoſt concluded,</l>
                <l>And the life-mowing Sword, which was very much blooded,</l>
@@ -182,7 +182,7 @@
                <l>They choſe theſe two men to direct in the work,</l>
                <l>Who'd been Elders for thirty long Years of the K—k;</l>
                <l n="5">
-                  <pb n="5" facs="tcp:009685_0004_0F77877D2D7540B8"/>
+                  <pb n="5" facs="unknown:009685_0004_0F77877D2D7540B8"/>
 The one hight <hi>O'Haro,</hi> the other <hi>O'Rigan,</hi>
                </l>
                <l>Who fear'd neither Turk, Jew, Chriſtian, or Pagan:</l>
@@ -222,7 +222,7 @@ The one hight <hi>O'Haro,</hi> the other <hi>O'Rigan,</hi>
                <l>And of the mob obtaining Silence,</l>
                <l>He thus went on—'Dear Sirs, awhile ſince,</l>
                <l>
-                  <pb n="6" facs="tcp:009685_0005_0F77877DD00E3EA8"/>
+                  <pb n="6" facs="unknown:009685_0005_0F77877DD00E3EA8"/>
 "Ye know as how the indian Rabble</l>
                <l>"With practices, unwarrantable</l>
                <l>"Did come upon our quiet Borders,</l>
@@ -269,7 +269,7 @@ The one hight <hi>O'Haro,</hi> the other <hi>O'Rigan,</hi>
                <l>"Whilſt our moſt antichriſtian foes</l>
                <l>"Whoſe trade is war and hardy blows,</l>
                <l>
-                  <pb n="7" facs="tcp:009685_0006_0F77877FE96CB4B0"/>
+                  <pb n="7" facs="unknown:009685_0006_0F77877FE96CB4B0"/>
 "(At leaſt while ſome of the ſame Colour,</l>
                <l>"With thoſe who'e caus'd us all this Dolor)</l>
                <l>"In Matchcoats warm and blankets dreſt,</l>
@@ -312,7 +312,7 @@ The one hight <hi>O'Haro,</hi> the other <hi>O'Rigan,</hi>
                <l>Or elſe the terrifying yell</l>
                <l>Of all the D—, confin'd in—,</l>
                <l>
-                  <pb n="8" facs="tcp:009685_0007_0F778780A1003630"/>
+                  <pb n="8" facs="unknown:009685_0007_0F778780A1003630"/>
 And this <hi>ſatanic ſalutation,</hi>
                </l>
                <l>Was to expreſs their approbation.</l>
